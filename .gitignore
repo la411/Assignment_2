@@ -1,0 +1,8 @@
+.vscode-server
+data
+test/weights
+test/MNIST
+test/.idea
+vae.pth
+VAEs
+.bash_history
